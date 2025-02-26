@@ -5,3 +5,5 @@ it lets you add either youtube videos or youtube streams and lets you play the a
 
 Video i made showing it off >
 https://www.youtube.com/watch?v=EAnbCd6YEwk
+
+Its mostly done now the only things I would add is the ability to delete items from the list without having to do it manually and adding support for playlists
